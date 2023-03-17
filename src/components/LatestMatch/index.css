@@ -1,0 +1,26 @@
+@media (max-width: 767px) {
+  .line {
+    height: 5px;
+  }
+}
+@media (min-width: 768px) {
+  .line {
+    display: none;
+  }
+  .first-second-card {
+    display: flex;
+    flex-direction: row;
+  }
+}
+.first-card-image {
+  display: flex;
+  flex-direction: row;
+}
+.first-second-card {
+  color: #ffffff;
+  font-family: 'Bree serif';
+  background-color: #0f172a;
+  border-radius: 20px;
+  padding: 20px;
+  width: 100%;
+}

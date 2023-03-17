@@ -1,0 +1,97 @@
+.main-heading {
+  color: #ffffff;
+}
+.latest-match {
+  padding: 20px;
+  width: 100%;
+}
+.banner-image {
+  max-width: 100%;
+}
+.list-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+
+.RCB {
+  background-color: #d91c1f;
+  background-size: cover;
+  min-height: 100vh;
+  min-width: 100vh;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.KKR {
+  background-color: #13418b;
+  background-size: cover;
+  min-height: 100vh;
+  min-width: 100vh;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.KXP {
+  background-color: #a4261d;
+  background-size: cover;
+  min-height: 100vh;
+  min-width: 100vh;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.RR {
+  background-color: #13418b;
+  background-size: cover;
+  min-height: 100vh;
+  min-width: 100vh;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.DC {
+  background-color: #4f5db0;
+  background-size: cover;
+  min-height: 100vh;
+  min-width: 100vh;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.SH {
+  background-color: #f26d22;
+  background-size: cover;
+  min-height: 100vh;
+  min-width: 100vh;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.MI {
+  background-color: #13418b;
+  background-size: cover;
+  min-height: 100vh;
+  min-width: 100vh;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.CSK {
+  background-color: #f7db00;
+  background-size: cover;
+  min-height: 100vh;
+  min-width: 100vh;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

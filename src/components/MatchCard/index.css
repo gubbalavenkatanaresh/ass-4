@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.match-container {
+  background-color: #0f172a;
+  color: #ffffff;
+  font-family: 'Bree serif';
+  margin: 20px;
+  border-radius: 15px;
+  text-align: center;
+  width: 250px;
+}
+.red {
+  color: red;
+}
+.green {
+  color: green;
+}
+.logo {
+  height: 150px;
+  width: 150px;
+}
